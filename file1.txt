@@ -1,3 +1,4 @@
 hello 
 world 
 tesr 
+This is the line to show how merging works
